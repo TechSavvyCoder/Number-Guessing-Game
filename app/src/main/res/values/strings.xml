@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Number Guessing Game</string>
+    <string name="tvWelcomeImage">Welcome</string>
+    <string name="tvName">TechSavvyCoder</string>
+    <string name="tvStudentID">Made By</string>
+    <string name="btnEnterGame">Enter Game</string>
+
+    <string name="splash_headMessage">Are you ready?</string>
+
+    <string name="game_instruction">Guess a number between 1 and 10</string>
+    <string name="game_txtGuess">Enter your guess</string>
+    <string name="game_btnSubmit">Submit</string>
+    <string name="game_btnHint">Hint</string>
+    <string name="game_attempts">Attempts Left:</string>
+    <string name="btnBack">Back</string>
+</resources>
